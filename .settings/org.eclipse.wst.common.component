@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="DAW2-BaseAPP">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="DAW2-BaseAPP"/>
+        <property name="java-output-path" value="/DAW2-BaseAPP/build/classes"/>
+    </wb-module>
+</project-modules>
