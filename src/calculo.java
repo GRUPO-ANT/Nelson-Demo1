@@ -8,9 +8,18 @@ public class calculo {
 	public int suma(int x, int y){
 	return x+y;
 	}
+	
+	public int minus(int x,int y){
+		return x-y;
+	}
+	
+	public int multiplici(int x,int y){
+		return x*y;
+		
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("csm!!!");
+   System.out.println("csm!!!");
 	}
 
 }
