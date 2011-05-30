@@ -8,10 +8,12 @@
 </head>
 <body>
 <table>
-<tr> 
+<tr>
 <td>
-<p> Pruebas, pruebas y mas pruebas</p>
-<b> Segunda linea</b>
+<input type="button" name="boton1" value="Saludo" />
+</td>
+<td>
+<input type="button" name="boton1" value="Despedida" />
 </td>
 </tr>
 </table>
