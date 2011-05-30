@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td>
-<input type="button" name="boton1" value="Saludo" />
+<input type="button" name="boton1" value="Te la comes" />
 </td>
 <td>
 <input type="button" name="boton1" value="Despedida" />
